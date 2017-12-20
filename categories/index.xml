@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 何双才的Github Page</title>
-    <link>https://shuangcai.github.io/categories/</link>
+    <link>https://Eddie-he.github.io/categories/</link>
     <description>Recent content in Categories on 何双才的Github Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh_CN</language>
     <copyright>All rights reserved - 2017</copyright>
     
-	<atom:link href="https://shuangcai.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://Eddie-he.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
